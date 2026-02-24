@@ -28,3 +28,11 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+I am ENG-Lana Mousa Al-Safadi, a computer engineering , 
+and this repository is dedicated to Git and GitHub tasks within the AI.SPIRE Pre-Work program.
+## Setup
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-Eng-Lanamalsafadi.git
+cd prework-day-1-and-2-Eng-Lanamalsafadi
